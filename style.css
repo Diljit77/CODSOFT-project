@@ -1,0 +1,116 @@
+*{
+    margin: 0 20px;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: black;
+}
+.store{
+    color: aqua;
+    margin-top: 7px;
+    font-size: 1.5rem;
+}
+.nav ul{
+    display: flex;
+    margin: 10px 10px;
+    color: white;
+}
+.nav ul li{
+    list-style: none;
+}
+.btn{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.fashion{
+    align-items: center;
+    width: 80vw;
+    height: 18vw;
+    display: flex;
+    margin-left: 3vw;
+}
+.brands{
+    margin: 20px;
+    font-size: 2rem;
+}
+.brand{
+    display: flex;
+}
+.logo{
+    width: 4vw;
+    -ms-wrap-margin: 10px;
+}
+.sec3{
+    display: flex;
+    margin-top: 30px;
+}
+.out{
+    font-size: 4rem;
+    color: red;
+    margin-bottom: 5px;
+}
+.h1{
+    font-size: 4rem;
+    margin-bottom: 5px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+.side{
+    height: 90vh;
+}
+
+.dis{ margin-left: 20px;
+    margin-bottom: 5px;
+    
+    font-size: 1.5rem;
+    
+}
+.offer{
+    font-size: 3rem;
+    color: red;
+}
+.button{ align-items: center;
+    font-size: 1.5rem;
+    border: 2px solid black;
+     border-radius:10px ;
+     background: red;
+     width: 8vw;
+     margin-top: 15px;
+     margin-left: 14vw;
+     cursor: pointer;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 20vh;
+}
+.footer{
+display: flex;
+justify-content: space-around;
+}
+.me{
+    display: flex;
+    margin: ;
+}
+.contact{
+    width: 2vw;
+}
+.foot{
+    margin: 5px;
+}
+.foot ul li{
+    list-style: none;
+}
+.copy{
+    margin-top: 20px;
+}
